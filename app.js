@@ -16,6 +16,11 @@ console.log(lotr);
 console.log(lotr.name);
 console.log(lotr.edition);
 
+// LOTR as an instance of Book class
+// Class is blueprint
+// Instance is thing we build based on blueprint
+// verb is instantiate
+
 // Do things with those instances
 
 // Create an instance of a library
